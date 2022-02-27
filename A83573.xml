@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two ordinances of the Lords and Commons assembled in Parliament; viz. the first, enabling the committee of the admiralty to grant commissions to such merchants as shall set out ships at their own charge; and the said merchants to have letters of mart to take all ships, goods and merchandize of any persons whatsoever in arms against the King and Parliament, or assisting the rebels in Ireland. The second, for the sequestring of the estates of spyes and intelligencers; and the fifth part of such estate to be given to such persons as discover them. Also, an order to prevent such persons as are committed to prison by authority of Parliament, from going abroad without order from the said authority. Ordered by the Commons in Parliament, that these ordinances and order be forthwith printed &amp; published: H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83573</idno>
+            <idno type="STC">Wing E2428</idno>
+            <idno type="STC">Thomason E75_20</idno>
+            <idno type="STC">ESTC R19022</idno>
+            <idno type="EEBO-CITATION">99860545</idno>
+            <idno type="PROQUEST">99860545</idno>
+            <idno type="VID">155516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155516)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 13:E75[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two ordinances of the Lords and Commons assembled in Parliament; viz. the first, enabling the committee of the admiralty to grant commissions to such merchants as shall set out ships at their own charge; and the said merchants to have letters of mart to take all ships, goods and merchandize of any persons whatsoever in arms against the King and Parliament, or assisting the rebels in Ireland. The second, for the sequestring of the estates of spyes and intelligencers; and the fifth part of such estate to be given to such persons as discover them. Also, an order to prevent such persons as are committed to prison by authority of Parliament, from going abroad without order from the said authority. Ordered by the Commons in Parliament, that these ordinances and order be forthwith printed &amp; published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>November 10. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Attachment and garnishment --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155516:1" rendition="simple:additions"/>
+            <p>TWO ORDINANCES OF <hi>The Lords and Commons aſſembled in</hi> PARLIAMENT; <hi>VIZ.</hi>
+            </p>
+            <p>The firſt, enabling the <hi>Committee</hi> of the Admiralty to grant Commiſſions to ſuch Mer<g ref="char:EOLhyphen"/>chants as ſhall ſet out Ships at their own charge; And the ſaid Merchants to have Letters of Mart to take all Ships, Goods and Merchandize of any perſons whatſoever in Arms againſt the King and Parliament, or aſſiſting the Rebels in Ireland.</p>
+            <p>The ſecond, for the Sequeſtring of the Eſtates of Spyes and Intelligencers; And the Fifth part of ſuch Eſtate to be given to ſuch per<g ref="char:EOLhyphen"/>ſons as diſcover them.</p>
+            <p>Alſo, an ORDER to prevent ſuch perſons as are committed to Priſon by Authority of Parliament, from going abroad without Order from the ſaid Authority.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>ORdered by the Commons in Parliament, That theſe Or<g ref="char:EOLhyphen"/>dinances and Order be forthwith printed &amp; publiſhed:</p>
+                  <closer>
+                     <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed for <hi>Edw. Husbands.</hi> November 10. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:155516:2"/>
+            <pb n="3" facs="tcp:155516:2"/>
+            <head>
+               <hi>Die Martis,</hi> 24 <hi>October,</hi> 1643. An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, for en<g ref="char:EOLhyphen"/>abling the <hi>Committee</hi> of Admiralty to grant Commiſsions to ſuch MERCHANTS, &amp;c.</head>
+            <p>THe Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment having received certain notice of a ceſſation of Arms concluded with the Rebells in <hi>Jreland,</hi> And of a pur<g ref="char:EOLhyphen"/>poſe to ſend an Army from thence into this Kingdom againſt the Forces of the King and Parliament, for the mainte<g ref="char:EOLhyphen"/>nance of the Popiſh Hierarchy, and the utter Ruine of Religion in all His Maje<g ref="char:EOLhyphen"/>ſties Dominions, if God prevent not. It
+<pb n="4" facs="tcp:155516:3"/>is Ordered, That all ſuch Merchants, and others who ſhall be willing to ſet out Ships at their own charge, ſhall have Letters of Mart to take all the Ships, Goods, and Merchandize, of any per<g ref="char:EOLhyphen"/>ſon or perſons whatſoever in Arms a<g ref="char:EOLhyphen"/>gainſt the King and Parliament, and not within the protection of Parliament, or that ſhall be ayding or aſsiſting to the Re<g ref="char:EOLhyphen"/>bells of that Kingdom, or of any other in Arms againſt the Parliament in either of the Kingdoms of <hi>England, Scotland,</hi> or <hi>Jreland;</hi> And the Committee of the Admiralty are required to grant Com<g ref="char:EOLhyphen"/>miſsions to ſuch perſons accordingly.</p>
+            <p>
+               <hi>Ordered that this Order be printed and pub<g ref="char:EOLhyphen"/>liſhed, and ſet upon the Exchange.</hi>
+            </p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb n="5" facs="tcp:155516:3"/>
+            <head>Die Martis, October 31. 1643. A Declaration and Ordinance of the Lords and Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament; For Sequeſtring the Eſtates of Spyes and Intelligencers; and the Fifth part of ſuch Eſtate to be given to ſuch perſons as diſcover them.</head>
+            <p>
+               <hi>WHereas by the frequent Intercourſe of Perſons and Intelligence) contrary to the uſe and cu<g ref="char:EOLhyphen"/>ſtome of War) between the Cities of</hi> London <hi>and</hi> Weſtminſter, <hi>and other parts of the Kingdom, and the perſons of the King and queen, and Forces raiſed by the King againſt the Parliament and Kingdom; opportunity hath been given for the plotting and con<g ref="char:EOLhyphen"/>triving the late treacherous and horrid Deſign; and
+<pb n="6" facs="tcp:155516:4"/>in caſe the ſaid Intercourſe and Intelligence ſhould con<g ref="char:EOLhyphen"/>tinue, the ſame way will ſtill be open for any other of the like nature in time to come; As alſo for the fre<g ref="char:EOLhyphen"/>quent conveying of Monies, and other Proviſions for the ſupporting of this unnaturall War: For the pre<g ref="char:EOLhyphen"/>venting whereof, be it Declared and Ordained by the Lords and Commons now aſſembled in Parliament, That no perſon or perſons whatſoever, ſhall from hence<g ref="char:EOLhyphen"/>forth repair or go from the ſaid Cities of</hi> London <hi>and</hi> Weſtminſter, <hi>or from any other parts of the King<g ref="char:EOLhyphen"/>dom, unto the perſon of the King or queen, or Lords of Councell, abiding with him or her, or to any perſon or perſons within any of the Kings quarters, leaguers or Garriſons, or that are within any of the Armies raiſed by the King; nor ſhall give or hold any Intelli<g ref="char:EOLhyphen"/>gence by Letters, Meſſages or otherwiſe, with the per<g ref="char:EOLhyphen"/>ſons of the King and queen, or other perſons aforeſaid, without conſent of both Houſes of Parliament, or War<g ref="char:EOLhyphen"/>rant from the Lord Generall of the Forces raiſed by the two Houſes, or from the reſpective Officers that ſhall command in chief any of the Forces. And the ſaid Lords and Commons do further declare, That the per<g ref="char:EOLhyphen"/>ſon or perſons who ſhall do to the contrary hereof, ſhall be proceeded againſt, as thoſe within the Ordinance for Sequeſtration. And ſhall be further accounted, as per<g ref="char:EOLhyphen"/>ſons
+<pb n="7" facs="tcp:155516:4"/>that do adhere unto thoſe that have levied War againſt the Parliament and Kingdom, and be liable to the ſame puniſhment. And be it further declared and Ordained, for the better and more effectuall execution of the premiſes, That the perſon or perſons that ſhall diſcover any of the perſons offending as aforeſaid, ſhall have one Fifth part of all ſuch benefits and profits that ſhall acrue, or grow, by reaſon of the ſeizing and ſequeſtring of their Eſtates, according to the true in<g ref="char:EOLhyphen"/>tent and meaning of this Ordinance, and of the ſaid Ordinance of Sequeſtration. And in caſe any perſon or perſons after the laſt of Iune, having knowledge of the ſaid offenders and offences, ſhall not within convenient time reveal the ſame unto the Speakers of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, or to the Lord Generall, or other Officers commanding in chief, the ſaid perſon</hi> or <hi>per<g ref="char:EOLhyphen"/>ſons ſhall incur the like penalties and forfeitures as are herein provided, againſt the ſaid principall offenders.</hi>
+            </p>
+            <p>Ordered by the Commons aſſembled in Parliament, That this Declaration and Ordinance bee forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb n="8" facs="tcp:155516:5"/>
+            <head>
+               <hi>Die Martis, Octob.</hi> 31. 1643.</head>
+            <p>IT is this day Ordered by the Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, That whatſoever Priſoner is committed by this Houſe, or by any Authority derived from this Houſe to any Priſon, and permitted to go abroad without the Order of this Houſe, or of others Au<g ref="char:EOLhyphen"/>thoriſed by them; That it ſhall be taken as an Eſcape, and that the Keepers be proceeded againſt accordingly for the ſame.</p>
+            <p>And this Order is to be printed and publiſhed, and ſent to every Priſon.</p>
+            <closer>
+               <signed>H: Elſyng. Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
